@@ -1,5 +1,8 @@
 div{
     background-color: greenyellow;
     padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 19px;
+    box-shadow: 15px;
 
 }
